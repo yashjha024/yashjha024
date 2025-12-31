@@ -28,9 +28,6 @@ I’m a B.Tech AI/ML student at **BIT Mesra**, focused on building **real-world 
 - 🔗 **CipherQuest** – Cryptography-based learning platform  
 - 🔗 **Expense & Grocery Tracker** – Structured monthly data tracking  
 
-_(Pin these repositories on your GitHub for visibility)_
-
----
 
 ## 📚 Currently Learning
 
@@ -43,8 +40,8 @@ _(Pin these repositories on your GitHub for visibility)_
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: btech15024.22@bitmesra.ac.in  
+- 💼 LinkedIn: https://linkedin.com/yashjha024  
+- 📧 Email: yashjha024@gmail.com  
 
 ---
 
