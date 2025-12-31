@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashjha024/yashjha024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech AI/ML student at **BIT Mesra**, focused on building **real-world AI, ML, and full-stack projects** that are practical, scalable, and production-ready.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+
+- 🤖 **AI & ML Projects** – Model training, evaluation, and deployment  
+- 🌐 **Web Development** – Frontend + Backend, APIs, system design  
+- 🧠 **Applied AI** – RAG, LLMs, automation, agent-based systems  
+- 🛠️ **Developer Tools** – Clean code, workflows, and tooling  
+
+---
+
+## 🧩 Tech Stack
+
+- **Languages:** Python, JavaScript, SQL  
+- **ML:** NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch  
+- **Web:** HTML, CSS, React, Node.js  
+- **Tools:** Git, GitHub, Docker, VS Code, Linux  
+
+---
+
+## 📌 Featured Projects
+
+- 🔗 **Placement Tracker** – Smart system to track applications & statuses  
+- 🔗 **CipherQuest** – Cryptography-based learning platform  
+- 🔗 **Expense & Grocery Tracker** – Structured monthly data tracking  
+
+_(Pin these repositories on your GitHub for visibility)_
+
+---
+
+## 📚 Currently Learning
+
+- Advanced DSA  
+- System Design Basics  
+- Production ML pipelines  
+- LLMs & AI Agents  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: btech15024.22@bitmesra.ac.in  
+
+---
+
+⭐ *I believe in learning by building and shipping real things.*
