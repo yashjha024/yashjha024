@@ -22,6 +22,16 @@ Alongside the product workflows, I worked on backend APIs, role-based access, pa
 
 ## Selected Work
 
+### Sentinel Stream · Real-Time Intrusion Detection
+
+A technical exploration of threat detection across distributed healthcare IoT environments without centralising sensitive raw data.
+
+I built a streaming intrusion-detection pipeline combining federated learning with Apache Kafka, using FedAvg and FedAdam for decentralised model training.
+
+**Built with:** Python · PyTorch · Apache Kafka · Federated Learning
+
+[View Project ↗](https://github.com/yashjha024/Sentinel-Stream)
+
 ### Campus Connect · Campus Management Platform
 
 I built Campus Connect after seeing students rely on scattered channels for academic updates, deadlines, and campus information.
@@ -32,15 +42,6 @@ I worked from the problem outward understanding student and faculty needs, shapi
 
 [View Project ↗](https://github.com/yashjha024/campus-connect)
 
-### Sentinel Stream · Real-Time Intrusion Detection
-
-A technical exploration of threat detection across distributed healthcare IoT environments without centralising sensitive raw data.
-
-I built a streaming intrusion-detection pipeline combining federated learning with Apache Kafka, using FedAvg and FedAdam for decentralised model training.
-
-**Built with:** Python · PyTorch · Apache Kafka · Federated Learning
-
-[View Project ↗](https://github.com/yashjha024/Sentinel-Stream)
 
 ## How I Build
 
