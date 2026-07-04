@@ -1,6 +1,8 @@
 # Hi, I'm Yash 👋
 
-I’m a B.Tech AI/ML student at **BIT Mesra**, focused on building **real-world AI, ML, and full-stack projects** that are practical, scalable, and production-ready.
+I started out building software and ML systems. Over time, I became just as interested in the problems behind them — who was facing them, what should actually be built, and how the product should work.
+
+I still enjoy building, but these days I spend more time thinking about the problem before jumping to the solution.
 
 ---
 
