@@ -2,95 +2,63 @@
 
 I'm an AI/ML engineering graduate from **BIT Mesra**, interested in how technology gets turned into products people actually use.
 
-My work has taken me across both sides of that process — understanding users and workflows, shaping what gets built, and getting close enough to the technology to help build it.
-
----
+My work has taken me across both sides of that process — understanding users and workflows, shaping what gets built, and staying close enough to the technology to help build it.
 
 ## Work
 
-### iStockly — Financial Learning Platform
+### iStockly · Financial Learning Platform
 
-Worked on a production LMS for financial education across learner and admin experiences.
+Worked across learner and admin experiences for a financial education platform — from shaping workflows for course management, onboarding, progress tracking, certification, and analytics to contributing to the systems behind access control, payments, and AI-assisted learner support.
 
-**Product:** Shaped workflows around course management, learner onboarding, progress tracking, certification, and analytics.
+[Live Product ↗](https://istockly.com)
 
-**Engineering:** Contributed to the systems behind course delivery, access control, payments, analytics, and RAG-based learner support.
+### Machine Hai · Industrial Commerce Platform
 
-→ Live product: istockly.com
+Worked on the complexity behind buying and selling industrial machinery — product discovery, ordering, partial payments, loan support, and after-sales workflows across customers, brands, and admins.
 
----
+Alongside the product workflows, I worked on backend APIs, role-based access, payment flows, and product recommendations.
 
-### Machine Hai — Industrial Commerce Platform
+[Live Product ↗](https://machinehai.com)
 
-Worked on a platform designed around the complexity of buying and selling industrial machinery.
+## Selected Work
 
-**Product:** Worked across product discovery, ordering, partial payments, loan support, and after-sales service for customers, brands, and admins.
+### Campus Connect · Campus Management Platform
 
-**Engineering:** Built backend APIs and business workflows, including role-based access, payment flows, and an AI-powered recommendation system.
+I built Campus Connect after seeing students rely on scattered channels for academic updates, deadlines, and campus information.
 
-→ Live product: machinehai.com
+I worked from the problem outward — understanding student and faculty needs, shaping role-based workflows, and building the full-stack platform behind them.
 
----
+**Built with:** React · Node.js · Express · MongoDB · Socket.IO
 
-## Selected Projects
+[View Project ↗](YOUR_CAMPUS_CONNECT_LINK)
 
-### Campus Connect — Campus Management Platform
+### Sentinel Stream · Real-Time Intrusion Detection
 
-Built around a problem I had seen firsthand: students relying on scattered channels for academic updates, deadlines, and campus information.
+A technical exploration of threat detection across distributed healthcare IoT environments without centralising sensitive raw data.
 
-I worked on the product from both sides — translating student and faculty needs into role-based workflows, then building the full-stack platform behind them.
+I built a streaming intrusion-detection pipeline combining federated learning with Apache Kafka, using FedAvg and FedAdam for decentralised model training.
 
-**Product:** User flows for academic records, deadlines, profiles, achievements, notices, and student–faculty workflows.
+**Built with:** Python · PyTorch · Apache Kafka · Federated Learning
 
-**Engineering:** React, Node.js, Express, MongoDB, JWT, Socket.IO.
+[View Project ↗](YOUR_SENTINEL_STREAM_LINK)
 
-→ [View project](YOUR_GITHUB_REPO_LINK)
+## How I Build
 
+**Problem → Users → Workflows → Build → Learn**
 
-### Sentinel Stream — Real-Time Intrusion Detection for Healthcare IoT
+I like staying close to the full process: understanding why something should exist, shaping how it should work, and going deep enough technically to help make it real.
 
-Built to explore how threat detection could work across distributed healthcare IoT environments without centralising sensitive raw data.
+## Tools I Work With
 
-I designed and implemented a streaming intrusion-detection pipeline combining federated learning with real-time event processing.
+**Product & Analytics**  
+Figma · Notion · Jira · SQL · Excel · Power BI
 
-**System:** Decentralised training with FedAvg/FedAdam and Kafka-based stream processing.
+**Engineering**  
+Python · JavaScript · React · Node.js · MongoDB · PyTorch · Kafka
 
-**Result:** 98.2% global model convergence with sub-250 ms inference latency.
+**Applied AI**  
+LLMs · RAG · Federated Learning · Machine Learning
 
-→ [View project](YOUR_GITHUB_REPO_LINK)
+## Connect
 
----
-
-## 🧩 Tech Stack
-
-- **Languages:** Python, JavaScript, SQL  
-- **ML:** NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch  
-- **Web:** HTML, CSS, React, Node.js  
-- **Tools:** Git, GitHub, Docker, VS Code, Linux  
-
----
-
-## 📌 Featured Projects
-
-- 🔗 **Placement Tracker** – Smart system to track applications & statuses  
-- 🔗 **CipherQuest** – Cryptography-based learning platform  
-- 🔗 **Expense & Grocery Tracker** – Structured monthly data tracking  
-
-
-## 📚 Currently Learning
-
-- Advanced DSA  
-- System Design Basics  
-- Production ML pipelines  
-- LLMs & AI Agents  
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/yashjha024  
-- 📧 Email: yashjha024@gmail.com  
-
----
-
-⭐ *I believe in learning by building and shipping real things.*
+[LinkedIn](https://linkedin.com/in/yashjha024) · [Email](mailto:yashjha024@gmail.com)
