@@ -48,17 +48,22 @@ I built a streaming intrusion-detection pipeline combining federated learning wi
 
 I like staying close to the full process: understanding why something should exist, shaping how it should work, and going deep enough technically to help make it real.
 
-## Tools I Work With
+## Tools & Technologies
 
-**Product & Analytics**  
-Figma · Notion · Jira · SQL · Excel · Power BI
+**Product & Collaboration**  
+Figma · Notion · Jira · Trello · GitHub
+
+**Analytics & Data**  
+SQL · PostgreSQL · Excel · Google Sheets · Power BI · Tableau
+
+**Automation & AI**  
+n8n · REST APIs · LLMs · RAG · AI-assisted development
 
 **Engineering**  
-Python · JavaScript · React · Node.js · MongoDB · PyTorch · Kafka
+Python · JavaScript · React · Node.js · Express · MongoDB · PyTorch · Apache Kafka
 
-**Applied AI**  
-LLMs · RAG · Federated Learning · Machine Learning
-
+**Infrastructure & Tools**  
+Git · GitHub · AWS · Docker · Cloudinary
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/yashjha024) · [Email](mailto:yashjha024@gmail.com)
