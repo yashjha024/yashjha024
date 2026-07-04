@@ -1,8 +1,8 @@
 # Hi, I'm Yash 👋
 
-I started out building software and ML systems. Over time, I became just as interested in the problems behind them — who was facing them, what should actually be built, and how the product should work.
+I'm an AI/ML engineering graduate from **BIT Mesra**, interested in how technology gets turned into products people actually use.
 
-I still enjoy building, but these days I spend more time thinking about the problem before jumping to the solution.
+My work has taken me across both sides of that process — understanding users and workflows, shaping what gets built, and getting close enough to the technology to help build it.
 
 ---
 
