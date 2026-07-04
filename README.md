@@ -6,12 +6,29 @@ My work has taken me across both sides of that process — understanding users a
 
 ---
 
-## 🚀 What I Work On
+## Work
 
-- 🤖 **AI & ML Projects** – Model training, evaluation, and deployment  
-- 🌐 **Web Development** – Frontend + Backend, APIs, system design  
-- 🧠 **Applied AI** – RAG, LLMs, automation, agent-based systems  
-- 🛠️ **Developer Tools** – Clean code, workflows, and tooling  
+### iStockly — Financial Learning Platform
+
+Worked on a production LMS for financial education across learner and admin experiences.
+
+**Product:** Shaped workflows around course management, learner onboarding, progress tracking, certification, and analytics.
+
+**Engineering:** Contributed to the systems behind course delivery, access control, payments, analytics, and RAG-based learner support.
+
+→ Live product: istockly.com
+
+---
+
+### Machine Hai — Industrial Commerce Platform
+
+Worked on a platform designed around the complexity of buying and selling industrial machinery.
+
+**Product:** Worked across product discovery, ordering, partial payments, loan support, and after-sales service for customers, brands, and admins.
+
+**Engineering:** Built backend APIs and business workflows, including role-based access, payment flows, and an AI-powered recommendation system.
+
+→ Live product: machinehai.com
 
 ---
 
