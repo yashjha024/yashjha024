@@ -2,19 +2,19 @@
 
 I'm an AI/ML engineering graduate from **BIT Mesra**, interested in how technology gets turned into products people actually use.
 
-My work has taken me across both sides of that process — understanding users and workflows, shaping what gets built, and staying close enough to the technology to help build it.
+My work has taken me across both sides of that process understanding users and workflows, shaping what gets built, and staying close enough to the technology to help build it.
 
 ## Work
 
 ### iStockly · Financial Learning Platform
 
-Worked across learner and admin experiences for a financial education platform — from shaping workflows for course management, onboarding, progress tracking, certification, and analytics to contributing to the systems behind access control, payments, and AI-assisted learner support.
+Worked across learner and admin experiences for a financial education platform from shaping workflows for course management, onboarding, progress tracking, certification, and analytics to contributing to the systems behind access control, payments, and AI-assisted learner support.
 
 [Live Product ↗](https://istockly.com)
 
 ### Machine Hai · Industrial Commerce Platform
 
-Worked on the complexity behind buying and selling industrial machinery — product discovery, ordering, partial payments, loan support, and after-sales workflows across customers, brands, and admins.
+Worked on the complexity behind buying and selling industrial machinery product discovery, ordering, partial payments, loan support, and after-sales workflows across customers, brands, and admins.
 
 Alongside the product workflows, I worked on backend APIs, role-based access, payment flows, and product recommendations.
 
@@ -26,7 +26,7 @@ Alongside the product workflows, I worked on backend APIs, role-based access, pa
 
 I built Campus Connect after seeing students rely on scattered channels for academic updates, deadlines, and campus information.
 
-I worked from the problem outward — understanding student and faculty needs, shaping role-based workflows, and building the full-stack platform behind them.
+I worked from the problem outward understanding student and faculty needs, shaping role-based workflows, and building the full-stack platform behind them.
 
 **Built with:** React · Node.js · Express · MongoDB · Socket.IO
 
