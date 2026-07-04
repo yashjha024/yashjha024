@@ -32,6 +32,35 @@ Worked on a platform designed around the complexity of buying and selling indust
 
 ---
 
+## Selected Projects
+
+### Campus Connect — Campus Management Platform
+
+Built around a problem I had seen firsthand: students relying on scattered channels for academic updates, deadlines, and campus information.
+
+I worked on the product from both sides — translating student and faculty needs into role-based workflows, then building the full-stack platform behind them.
+
+**Product:** User flows for academic records, deadlines, profiles, achievements, notices, and student–faculty workflows.
+
+**Engineering:** React, Node.js, Express, MongoDB, JWT, Socket.IO.
+
+→ [View project](YOUR_GITHUB_REPO_LINK)
+
+
+### Sentinel Stream — Real-Time Intrusion Detection for Healthcare IoT
+
+Built to explore how threat detection could work across distributed healthcare IoT environments without centralising sensitive raw data.
+
+I designed and implemented a streaming intrusion-detection pipeline combining federated learning with real-time event processing.
+
+**System:** Decentralised training with FedAvg/FedAdam and Kafka-based stream processing.
+
+**Result:** 98.2% global model convergence with sub-250 ms inference latency.
+
+→ [View project](YOUR_GITHUB_REPO_LINK)
+
+---
+
 ## 🧩 Tech Stack
 
 - **Languages:** Python, JavaScript, SQL  
