@@ -30,7 +30,7 @@ I worked from the problem outward — understanding student and faculty needs, s
 
 **Built with:** React · Node.js · Express · MongoDB · Socket.IO
 
-[View Project ↗](YOUR_CAMPUS_CONNECT_LINK)
+[View Project ↗](https://github.com/yashjha024/campus-connect)
 
 ### Sentinel Stream · Real-Time Intrusion Detection
 
@@ -40,7 +40,7 @@ I built a streaming intrusion-detection pipeline combining federated learning wi
 
 **Built with:** Python · PyTorch · Apache Kafka · Federated Learning
 
-[View Project ↗](YOUR_SENTINEL_STREAM_LINK)
+[View Project ↗](https://github.com/yashjha024/Sentinel-Stream)
 
 ## How I Build
 
